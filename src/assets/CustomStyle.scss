@@ -1,0 +1,16 @@
+.nav{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(60, 179, 113);
+}
+.nav .menu-item{
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+.nav .menu-item:hover{
+    background-color: lightblue;
+    text-decoration: none;
+}
