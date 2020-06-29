@@ -14,3 +14,27 @@
     background-color: lightblue;
     text-decoration: none;
 }
+.header{
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    margin-top: 5px;
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    margin-top: 5px;
+}
+// For Table
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+}

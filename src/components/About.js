@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <p>welcome to About</p>
+      <h1 className="header">welcome to About</h1>
     </div>
   );
 }
